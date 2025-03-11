@@ -1,4 +1,4 @@
-# BLEnumerator
+I'm# BLEnumerator
 
 This Python script provides a menu-driven interface to interact with Bluetooth Low Energy (BLE) devices. It allows you to:
 
@@ -43,7 +43,7 @@ Follow these steps to set up the BLE Interaction Tool:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/darkmatter91/BLEnumerator.git
-   cd ble-interaction-tool
+   cd BLEnumerator
    ```
 
 2. **Install dependencies**:
