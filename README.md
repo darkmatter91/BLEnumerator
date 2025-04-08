@@ -1,4 +1,4 @@
-I'm# BLEnumerator
+# BLEnumerator
 
 This Python script provides a menu-driven interface to interact with Bluetooth Low Energy (BLE) devices. It allows you to:
 
